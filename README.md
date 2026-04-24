@@ -21,7 +21,7 @@ It is built with **Node.js**, **Express.js**, and **MongoDB**, providing authent
 ## Project Structure
 
 ```
-Back-End/
+NexasLeads-Back-End/
 ├── controllers/        # Handles business logic (blogs, login, partners, stats, users)
 │   ├── blogController.js
 │   ├── loginController.js
@@ -57,8 +57,8 @@ Back-End/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/nexasleadsofficial/Back-End.git
-   cd Back-End
+   git clone https://github.com/NexasLeads-Back-End.git
+   cd NexasLeads-Back-End
    ```
 
 2. **Install dependencies**
