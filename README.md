@@ -57,7 +57,7 @@ NexasLeads-Back-End/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/NexasLeads-Back-End.git
+   git clone https://github.com/AymaneMehdi/NexasLeads-Back-End.git
    cd NexasLeads-Back-End
    ```
 
